@@ -675,6 +675,39 @@
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
       "webOpen": true,
       "click": true
+    },
+    {
+      "name": "AGEFANS(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.agefans.cc",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "365(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://365fuliba.com",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "bizixun(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "http://www.bizixun.net",
+      "webOpen": true,
+      "click": true
     }
   ]
 }
