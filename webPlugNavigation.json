@@ -708,6 +708,17 @@
       "webUrl": "http://www.bizixun.net",
       "webOpen": true,
       "click": true
+    },
+    {
+      "name": "NoVipNoAd(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.novipnoad.com",
+      "webOpen": true,
+      "click": true
     }
   ]
 }
