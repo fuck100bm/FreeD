@@ -369,12 +369,12 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.9ehao.com/",
+      "webUrl": "https://www.9egood.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
-        "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
+        "search_url": "https://www.9egood.com/vod/search.html?wd={kw}&submit=",
+        "nav_url": "https://www.9egood.com/vodshow/navCate/page/navPage",
         "web_name": "9亿看看",
         "navHtml": {
           "name": [
@@ -706,17 +706,6 @@
       "userAgent": "PC",
       "ads": "",
       "webUrl": "http://www.bizixun.net",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "NoVipNoAd(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "PC",
-      "ads": "",
-      "webUrl": "https://www.novipnoad.com",
       "webOpen": true,
       "click": true
     }
