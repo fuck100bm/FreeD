@@ -990,7 +990,7 @@
         {
             "name": "TV云播(Web)",
             "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "ads": "https://cfimg.cnyuncdn.com/01/1.jpg,https://cfimg.cnyuncdn.com/01/2.jpg,https://cfimg.cnyuncdn.com/01/3.jpg,https://cfimg.cnyuncdn.com/01/4.jpg,https://cfimg.cnyuncdn.com/01/5.jpg,https://cfimg.cnyuncdn.com/01/6.jpg",
+            "ads": "onenews,https://cfimg.cnyuncdn.com/01/1.jpg,https://cfimg.cnyuncdn.com/01/2.jpg,https://cfimg.cnyuncdn.com/01/3.jpg,https://cfimg.cnyuncdn.com/01/4.jpg,https://cfimg.cnyuncdn.com/01/5.jpg,https://cfimg.cnyuncdn.com/01/6.jpg",
             "webUrl": "http://www.tvyb02.com/",
             "webOpen": true,
             "click": true
