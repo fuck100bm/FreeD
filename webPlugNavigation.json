@@ -990,7 +990,7 @@
         {
             "name": "TV云播(Web)",
             "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "ads": "@@http://www.tvyb02.com",
+            "ads": "@@|http://www.tvyb02.com",
             "webUrl": "http://www.tvyb02.com/",
             "webOpen": true,
             "click": true
