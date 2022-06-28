@@ -994,6 +994,14 @@
             "webUrl": "http://www.tvyb02.com/",
             "webOpen": true,
             "click": true
+        },
+        {
+            "name": "茶杯狐(Web)",
+            "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "ads": "@@|https://cupfox.app/",
+            "webUrl": "https://cupfox.app/",
+            "webOpen": true,
+            "click": true
         }
     ]
 }
