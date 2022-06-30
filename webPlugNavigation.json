@@ -855,6 +855,15 @@
             "click": true
         },
         {
+            "name": "88视频(Web)",
+            "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+            "type": "webPlug",
+            "ads": "",
+            "webUrl": "https://www.88hd.com/",
+            "webOpen": true,
+            "click": true
+        },
+        {
             "name": "NO视频(Web)",
             "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type": "webPlug",
