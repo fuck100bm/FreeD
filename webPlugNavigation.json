@@ -928,8 +928,8 @@
             "name": "低端影视(Web)",
             "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type": "webPlug",
-            "ads": "https://ddrk.me/mtp/220208_s.jpg,https://ddrk.me/mtp/220208_h.jpg",
-            "webUrl": "https://ddrk.me",
+            "ads": "https://ddys.tv/mtp/220208_s.jpg,https://ddrk.me/mtp/220208_h.jpg",
+            "webUrl": "https://ddys.tv",
             "webOpen": true,
             "click": true
         },
@@ -1097,6 +1097,14 @@
             "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "ads": "@@|https://cupfox.app/",
             "webUrl": "https://cupfox.app/",
+            "webOpen": true,
+            "click": true
+        },
+        {
+            "name": "Jable(Web)",
+            "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "ads": "@@|https://jable.tv/",
+            "webUrl": "https://jable.tv/",
             "webOpen": true,
             "click": true
         }
